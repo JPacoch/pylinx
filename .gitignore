@@ -1,5 +1,8 @@
 #ignore data folder and txt files
-
+#file extensions
 *.txt
 
+#dirs
 data
+__py*
+
